@@ -1,0 +1,13 @@
+{
+  "name": "Indopia Movie Listing",
+  "description": "Pulls indopia movie list.",
+  "version": "0.0.1",
+  "author": "Nitesh Anand",
+  "dependencies": {
+    "jsdom": "4.1.0",
+    "q": "1.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
